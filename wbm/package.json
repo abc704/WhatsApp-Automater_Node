@@ -1,0 +1,63 @@
+{
+  "_from": "wbm",
+  "_id": "wbm@1.1.16",
+  "_inBundle": false,
+  "_integrity": "sha512-COZbkYXK5WZI1OrdbUwHmKCSxDgYgKhbNW+a4L45OEnq+WyoNQHUq24X9+vL6S7q5Spl3MgxqCpFbw/a/4/6Og==",
+  "_location": "/wbm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "wbm",
+    "name": "wbm",
+    "escapedName": "wbm",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/wbm/-/wbm-1.1.16.tgz",
+  "_shasum": "e5fb80ebd71a7bfa6aa232b57b155ae6ae120f09",
+  "_spec": "wbm",
+  "_where": "D:\\CodeHub\\InternShip\\Codify\\whatsapp-bot",
+  "author": {
+    "name": "Briuor"
+  },
+  "bugs": {
+    "url": "https://github.com/Briuor/wbm/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "puppeteer": "^2.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "rimraf": "^3.0.2",
+    "rxjs": "^6.5.5"
+  },
+  "deprecated": false,
+  "description": "wbm is an API to send bulk messages in whatsapp.",
+  "devDependencies": {},
+  "homepage": "https://github.com/Briuor/wbm#readme",
+  "keywords": [
+    "whatsapp",
+    "whatsapp-api",
+    "whatsapp-library",
+    "whatsapp-send-message",
+    "whatsapp-bulk-message",
+    "whatsapp-sender",
+    "whatsapp-message-sender",
+    "bulk-messages",
+    "bulk-messages-api"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "wbm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Briuor/wbm.git",
+    "directory": "packages/wbm"
+  },
+  "version": "1.1.16"
+}
